@@ -1,0 +1,1 @@
+# Veri-Biliminde-Yayg-n-Hatalar
