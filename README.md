@@ -1,4 +1,4 @@
-# Veri-Biliminde-Yaygın-Hatalar
+# Machine Learning ve Veri-Biliminde Yaygın Hatalar
 
 Bu repoda veri bilimi ve makine öğrenmesinde yapılan hataları gösteren notebooklar paylaşılmaktadır.
 
