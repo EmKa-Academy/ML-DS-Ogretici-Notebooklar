@@ -9,8 +9,8 @@ Bu repoda veri bilimi ve makine öğrenmesinde yapılan hataları gösteren note
 * Yani yapılan bu hata (Data Leakage), aşırı iyimser veya gerçek hayatta bir işe yaramayacak modeller oluşturmanıza neden olabilir.
 
 ### Correlation ve Multicollinearity
-#### Overfit ile ilişkisi
- * Var mı yok mu diye deneylerin yapılması
-#### Modeli yorumlamak
- * Farklı senaryolarda farklı modeller nasıl sonuçlar gösterir, yorumlama yeteneği nasıl etkilenir?
+* #### Overfit ile ilişkisi
+  * Var mı yok mu diye deneylerin yapılması
+* #### Modeli yorumlamak
+  * Farklı senaryolarda farklı modeller nasıl sonuçlar gösterir, yorumlama yeteneği nasıl etkilenir?
 
